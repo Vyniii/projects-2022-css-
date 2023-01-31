@@ -1,0 +1,30 @@
+.conteiner-contador{
+width: 50%;
+height: 100px;
+background-color: #4ec5c1 ;
+color: #ec576b;
+margin: 20px auto;
+padding: 5px;
+text-align: center;
+border-radius: 10px;
+}
+
+.painel-contador{
+    text-shadow: 5px 5px 5px #000000 ;
+}
+
+.botao{
+ 
+    width: 50px;
+    height: 30px;
+    border-radius: 1000px;
+    background-color: #ec576b;
+    margin: 5px;
+    color: #000000;
+    padding: center ;
+    border: none;
+    font-size: 30px;
+    font-weight: 500;
+    box-shadow: 5px 5px 5px #000000;
+}
+

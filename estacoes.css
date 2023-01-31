@@ -1,0 +1,30 @@
+.estacoes h2 {
+    color: #ec576b;
+    margin-bottom: 5px;
+}
+
+.estacoes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 50%;
+    height: 350px;
+    margin: 30px auto;
+    background-color: #4ec5c1;
+    color: black;
+    border-radius: 5px;
+}
+
+.botao-estacoes {
+    width: 50%;
+    padding: 2px;
+    margin: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #ec576b;
+    color: #000000;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px #636b61;
+}

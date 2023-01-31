@@ -1,0 +1,42 @@
+.conteiner-cinema {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 350px;
+    margin: 30px auto;
+    background-color: #4ec5c1;
+    color: #ec576b;
+    border-radius: 20px;
+}
+
+
+.campo-cinema {
+    width: 75%;
+    padding: 10px;
+    margin: 10px 0px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+  
+}
+
+.botao-cinema {
+    width: 75%;
+    padding: 10px;
+    margin: 10px 0px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ec576b;
+    border-radius: 5px;
+}
+
+.mensagem-cinema {
+    width: 75%;
+    height: 30px;
+    padding: 5px;
+    margin: 10px 0px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}

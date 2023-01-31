@@ -1,0 +1,54 @@
+.conteiner-concatenacao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 50%;
+    height: 200px;
+    background-color: #4ec5c1 ;
+    color: #ec576b;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;  
+ }
+
+.campo-concatenacao{
+    width: 50% ;
+    height: 20px;
+    margin: 2px;
+    padding: 5px;
+    background-color: #ffffff;
+    color: #ec576b;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #000000;
+}
+
+.botao-concatenacao{
+    width: 25% ;
+    height: 25px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #ffffff;
+    color: #ec576b;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #000000;
+
+}
+
+.campo-concatenacao-msg{
+
+    width: 40% ;
+    height: 50px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #ec576b;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 10px 10px #000000;
+
+}

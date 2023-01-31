@@ -1,0 +1,23 @@
+  h2{
+    margin-bottom: 5px;
+ }
+ 
+ .basico {
+    width: 50%;
+    height: 100px;
+    background-color: #4ec5c1 ;
+    color: #ec576b;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+
+
+ }
+
+ #data{
+    text-align: center ;
+    font-size: 10px;
+    margin-left: 650px;
+    color: #000000;
+ }
